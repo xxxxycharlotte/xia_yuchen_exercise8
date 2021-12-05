@@ -7,7 +7,7 @@ void setup() {
 }
 
 void draw() {
-  background(100);
+  background(000);
   pieChart(300, angles);
 }
 
